@@ -1,38 +1,39 @@
-const logotext = "JOHN";
+const logotext = "Wrnal Labs";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Warnal Labs",
+    description: "At Warnal Labs Pvt Ltd, we are at the forefront of innovation, harnessing the power of artificial intelligence to transform the healthcare industry and beyond. Founded with a vision to create cutting-edge solutions that make a real difference, our company is dedicated to delivering top-tier AI-driven products and services that redefine the future.
+",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "Welcome to Warnal Labs Pvt Ltd",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "Your eyes tell whats wrong with you",
+        second: "Eyes speak the language of brain ",
+        third: "Your eyes is gateway to your soul",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "At Warnal Labs Pvt Ltd, we harness AI to revolutionize healthcare with innovative solutions. Our advanced diagnostic tools, predictive analytics, and personalized treatment plans enhance patient care. We also develop user-friendly websites and mobile apps, along with cutting-edge AI hardware. Join us in creating a smarter, healthier future.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "What we do",
+    aboutme: "At Warnal Labs Pvt Ltd, we leverage AI to transform healthcare, offering advanced diagnostics, predictive analytics, and personalized treatments. Our expertise extends to developing user-friendly websites, mobile apps, and innovative AI hardware. Partner with us to drive innovation and improve patient care.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Bussiness Development",
+        where: "Jasminebains.in",
+        date: "2024",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "3d Designing",
+        where: "MCM DAV",
+        date: "2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Astore.in Complete development",
+        where: "astore.in",
+        date: "2017",
     },
 ];
 
@@ -56,21 +57,39 @@ const skills = [{
         name: "Jquery",
         value: 85,
     },
+                {
+                    name: "e-commerce",
+                    value: 100,
+                },
 ];
 
-const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+const services = [
+    {
+        title: "AI-Driven Diagnostics",
+        description: "Our advanced diagnostic tools use AI to analyze medical data, providing accurate and timely results to assist healthcare professionals.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Predictive Analytics",
+        description: "We develop predictive models that identify potential health risks and trends, enabling proactive measures and better patient management.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Personalized Treatment Plans",
+        description: "Our AI systems create personalized treatment plans based on individual patient data, ensuring the most effective care possible.",
     },
+    {
+        title: "Custom Website Development",
+        description: "We design and develop custom websites that are visually appealing, optimized for performance, and provide an excellent user experience.",
+    },
+    {
+        title: "Mobile Health Apps",
+        description: "Our mobile health apps empower users to take control of their health with features like fitness tracking and telemedicine.",
+    },
+    {
+        title: "AI-Based Hardware Devices",
+        description: "We design and manufacture innovative AI-based hardware, including wearable health monitors and smart diagnostic tools for accurate data collection.",
+    }
 ];
+
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
@@ -136,9 +155,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "warnal@warnal.com",
+    YOUR_FONE: "+91-7006333370",
+    description: "At Warnal Labs Pvt Ltd, we harness AI to revolutionize healthcare with innovative solutions. Our advanced diagnostic tools, predictive analytics, and personalized treatment plans enhance patient care. We also develop user-friendly websites and mobile apps, along with cutting-edge AI hardware. Join us in creating a smarter, healthier future. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,10 +166,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/warnal-labs",
+    facebook: "https://facebook.com/warnallabs",
+    linkedin: "https://linkedin.com/warnallabs",
+    twitter: "https://twitter.com/warnallabs",
 };
 export {
     meta,
