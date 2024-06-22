@@ -1,4 +1,4 @@
-const logotext = "Wrnal Labs";
+const logotext = "Warnal Labs";
 const meta = {
     title: "Warnal Labs",
     description: "At Warnal Labs Pvt Ltd, we are at the forefront of innovation, harnessing the power of artificial intelligence to transform the healthcare industry and beyond. Founded with a vision to create cutting-edge solutions that make a real difference, our company is dedicated to delivering top-tier AI-driven products and services that redefine the future.",
