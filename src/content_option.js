@@ -87,7 +87,7 @@ const services = [
     {
         title: "AI-Based Hardware Devices",
         description: "We design and manufacture innovative AI-based hardware, including wearable health monitors and smart diagnostic tools for accurate data collection.",
-    }
+    },
 ];
 
 
